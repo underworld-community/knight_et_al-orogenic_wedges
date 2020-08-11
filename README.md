@@ -1,4 +1,4 @@
-![Image of selected models](https://github.com/underworld-community/knight_et_al-orogenic_wedges/blob/master/Fig-9.pdf)
+![Image of selected models](https://github.com/underworld-community/knight_et_al-orogenic_wedges/blob/master/Fig-9.jpg)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/template-project/master)
 
