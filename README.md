@@ -1,4 +1,4 @@
-<table><tr><td><img src='./Fig-9.pdf'></td></tr></table>
+<table><tr><td><img src='https://github.com/underworld-community/knight_et_al-orogenic_wedges/blob/master/Fig-9.pdf'></td></tr></table>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/template-project/master)
 
