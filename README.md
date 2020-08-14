@@ -1,6 +1,6 @@
 ![Image of selected models](https://github.com/underworld-community/knight_et_al-orogenic_wedges/blob/master/Fig-9.jpg)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/template-project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/knight_et_al-orogenic_wedges/master)
 
 About
 -----
@@ -9,8 +9,7 @@ Notebook for convergence models
 
 Files
 -----
-**_Please give a quick overview of purpose of the model files/directories included in this repo._**
-**_Note that while light data files are fine,  heavy data should not be included in your repository._**
+
 
 File | Purpose
 --- | ---
