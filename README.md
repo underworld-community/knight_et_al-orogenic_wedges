@@ -34,6 +34,6 @@ Check-list
 ----------
 - [Y] (Required) Have you replaced the above sections with your own content? 
 - [Y] (Required) Have you updated the Dockerfile to point to your required UW/UWG version? 
-- [ ] (Required) Have you included a working Binder badge/link so people can easily run your model?
+- [Y] (Required) Have you included a working Binder badge/link so people can easily run your model?
                  You probably only need to replace `template-project` with your repo name. 
 - [Y] (Optional) Have you included an appropriate image for your model? 
