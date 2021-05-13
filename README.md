@@ -13,8 +13,7 @@ Files
 
 File | Purpose
 --- | ---
-`BK-Conv_One_Layer-Erosion-SimpVersion.ipynb` | Notebook to recreate CT25-1. Can be modified to recreate any case presented in the manuscript. 
-`UW2DsurfaceProcesses.py`| 2D surface processes for erosion and sedimentation, includes a linear hillslope diffusion function and velocity function. 
+`CT25-1.ipynb` | Notebook to recreate CT25-1. Can be modified to recreate any case presented in the manuscript. 
 `Fig-9.pdf` | Model at final TS for selected cases.
 
 Tests
