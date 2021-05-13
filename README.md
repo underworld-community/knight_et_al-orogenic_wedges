@@ -4,7 +4,7 @@
 
 About
 -----
-Notebook for convergence models 
+Notebook for convergence models. The model can be run online through the binder link or downloaded and used within a UWGeodynamics docker container.
 
 
 Files
@@ -13,7 +13,7 @@ Files
 
 File | Purpose
 --- | ---
-`BK-Conv_One_Layer-Erosion-SimpVersion.ipynb` | Notebook for convergence models. 
+`BK-Conv_One_Layer-Erosion-SimpVersion.ipynb` | Notebook to recreate CT25-1. Can be modified to recreate any case presented in the manuscript. 
 `UW2DsurfaceProcesses.py`| 2D surface processes for erosion and sedimentation, includes a linear hillslope diffusion function and velocity function. 
 `Fig-9.pdf` | Model at final TS for selected cases.
 
